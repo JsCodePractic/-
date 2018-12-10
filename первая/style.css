@@ -1,0 +1,191 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logotext{
+    margin-top: 50px;
+}
+.top{
+    margin: 0 auto;
+    width: 960px;
+    height: 100%;
+    
+
+}
+.container{
+    margin: 0 auto; 
+     width: 960px;
+     
+     
+   
+    
+}
+ul{
+    float: right;
+    margin-top:6px;
+    margin-top: 50px;
+    
+}
+       
+}
+.menu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+  ;
+   
+   
+    
+
+}
+.menu a{
+    text-decoration: none;
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    display: inline-block;
+    padding: 10px 20px;
+    color: #0481C2;
+    font-size: 20px;
+}
+.menu li{
+    display: inline;
+}
+.search{
+    float: left;
+    width: 230px;
+    height: 430px;
+    margin: 0 auto;
+    
+
+}
+.BGfoto{
+    
+    float: right;
+    width: 718px;
+    height: 300px;
+    background-image: url(img/first/bg.png);
+    background-size: 100%;
+    
+
+    
+    
+
+}
+.line{
+    margin-top: 54px;
+    margin-bottom: 27px;
+    width: 100%;
+}
+input {
+    width: 228px;
+    height: 27px;
+    background-image: url(img/first/Search.png);   
+    background-repeat: no-repeat;    
+    background-position: 195px;  
+    outline: none;    
+     font-size: 13px; 
+     background-color: transparent;
+     position: relative;
+    top: -12px;
+
+}
+
+.imgbg{
+    width: 100%;
+}
+h2{
+    font-family:Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-size: 24px;
+    color:#0070A7;
+       
+    
+}
+h3{
+    font-family:Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-size: 13px;
+    color: #0070A7;
+
+}
+p{
+    color: #4A4A4A;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px; 
+}
+a{
+    color: #8D8D8D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    
+
+}
+#simpl{
+   color: #00A7C7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-decoration: underline;
+}
+h5{
+    color: #F2F2F1;
+    font-family:Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-size: 18px;
+    text-align: center;  
+    top: -10px;
+
+
+}
+
+.Bgtext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #F2F2F1;
+   text-align: justify;
+      position: relative;
+    left: 25px;
+  
+         
+   
+}
+.bgfototext{
+    float: right;
+    width: 250px;
+    height: 300px;
+    background-image: url(img/first/Overlay.png);
+    
+
+}
+.secondinfo{
+    width: 718px;
+    height: 300px;
+    float: right;
+    margin-top: 40px;
+}
+.first{
+    width: 231px;
+    height: 210px;
+    display: inline-block;
+    padding: 2px;
+}
+
+
+.imglocal{
+    width: 228px;
+    height: 50px;
+    display: inline;
+    float: left;
+    margin-top: -15px;
+}
+#footer {
+      background: #f7f7f7;
+    position: absolute;
+    bottom: 0;
+    width: 950px;
+   }
+.av{
+       float: right;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 12px;
+       color: black;
+       margin-top: -15px;
+   }
